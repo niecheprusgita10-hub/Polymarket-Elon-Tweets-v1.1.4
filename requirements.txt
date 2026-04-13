@@ -1,1 +1,4 @@
-simmer-sdk
+simmer-sdk==0.9.21
+tweepy
+requests
+pandas  # Jika butuh analisis data tweet
